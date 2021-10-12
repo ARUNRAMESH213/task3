@@ -1,0 +1,52 @@
+
+body{
+    background-image:url("./images/AirBnb-Live-Anywhere-contest.jpg");
+    height: 97vh;
+    width: 98vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+.card{
+    text-align: center;
+    background-color: rgb(32 56 48 / 28%);
+    opacity: 10px;
+    height: 400px;
+    width:350px;
+   padding: 10px;
+
+        
+}
+h2{
+    font-weight: bold;
+    color: #f71111;
+    margin-top: 12px;
+    font-family: sans-serif;
+    font-size: 56px;
+    margin-bottom: 10px;
+}
+p{
+    font-size: 24px;
+    color:#f1faff;
+    width:94%;
+    padding: 4%;
+    text-align: center;
+}
+h4{
+    font-family: sans-serif;
+    
+    color:#f71111;
+}
+.wrap{
+    background-color: red;
+    border-radius: 5px;
+    border-color: transparent;
+    color: white;
+    width:50%;
+
+}
+.container{
+    padding-left: 50px;
+    padding-top: 50px;
+}
